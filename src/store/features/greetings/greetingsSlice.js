@@ -4,7 +4,6 @@ import axios from 'axios';
 export const greetingsData = createAsyncThunk('Get greetings', async (arg, { rejectWithValue }) => {
   try {
     const { data } = await axios.get('http://localhost:4000/api/greetings');
-    console.log(data);
     return data;
   } catch (error) {
     return rejectWithValue(error.response.data);

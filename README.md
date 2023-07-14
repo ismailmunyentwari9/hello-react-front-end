@@ -29,22 +29,22 @@
 - **[REDUX]**
 <details>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/RUBY">RUBY</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">RUBY</a></li>
   </ul>
 </details>
 <details>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/RAILS">RAILS</a></li>
+    <li><a href="https://rubyonrails.org/">RAILS</a></li>
   </ul>
 </details>
 <details>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/REACT">REACT</a></li>
+    <li><a href="https://react.dev/">REACT</a></li>
   </ul>
 </details>
 <details>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/REDUX">REDUX</a></li>
+    <li><a href="https://redux.js.org/">REDUX</a></li>
   </ul>
 </details>
 <!-- Features -->

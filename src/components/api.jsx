@@ -10,6 +10,6 @@ const Greettings = () => {
     dispatch(greetingsData());
   }, [dispatch]);
 
-  return (<div>{greeting.mesage}</div>);
+  return (<div>{greeting.message}</div>);
 };
 export default Greettings;
